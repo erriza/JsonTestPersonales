@@ -1,0 +1,26 @@
+{
+    "Beneficios": [
+
+        {
+            "Titulo": "Libre de anualidad",
+            "Descripcion": "Al gastar por lo menos $200 M.N. mensuales!"
+
+        },
+        {
+            "Titulo": "Puntos Premier por tus compras"
+        },
+        {
+            "Titulo": "Bono de bienvenida de 5,000 Puntos Premier",
+            "Descripcion": "Al llegar a $250 USD gastados durante los primeros tres meses despues de la activacion."
+        },
+        {
+            "Titulo": "1 Punto Premier por cada $1.00 USD gastado"
+        },
+        {
+            "Titulo": "1.5 Puntos Premier por cada $1.00 USD gastado",
+            "Descripcion": "Solo en Aeromexico y club Premier"
+        }
+
+    ]
+
+}
